@@ -37,6 +37,6 @@ A RAG pipeline looks like this:
 
 query ➡️ search results ➡️ prompt ➡️ LLM response
 
-In the first weekly project, I used Elasticsearch to build a RAG to search and retrieve answers from the FAQ document of datatalkclubs. You can view the code here.
+In the first weekly project, I used Elasticsearch to build a RAG to search and retrieve answers from the FAQ document of datatalkclubs. You can view the code [here](https://github.com/el-grudge/llm-zoomcamp/tree/main/week_1).
 
 #llm_zoomcamp #LLM #RAG #Elasticsearch #learning_in_public
